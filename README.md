@@ -1,2 +1,5 @@
 # C-testsolution
-a repository for my cpmpleted soln for the C# console application task for the internship as a .NET C# developer
+This document contains my completed solution for the C# console application task assigned as part of the internship interview for the .NET C# developer trainee
+
+
+
