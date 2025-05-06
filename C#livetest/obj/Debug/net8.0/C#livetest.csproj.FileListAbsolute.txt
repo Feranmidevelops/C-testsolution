@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\C#Test\C#livetest\bin\Debug\net8.0\C#livetest.exe
+C:\Users\USER\Desktop\C#Test\C#livetest\bin\Debug\net8.0\C#livetest.deps.json
+C:\Users\USER\Desktop\C#Test\C#livetest\bin\Debug\net8.0\C#livetest.runtimeconfig.json
+C:\Users\USER\Desktop\C#Test\C#livetest\bin\Debug\net8.0\C#livetest.dll
+C:\Users\USER\Desktop\C#Test\C#livetest\bin\Debug\net8.0\C#livetest.pdb
+C:\Users\USER\Desktop\C#Test\C#livetest\obj\Debug\net8.0\C#livetest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#Test\C#livetest\obj\Debug\net8.0\C#livetest.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#Test\C#livetest\obj\Debug\net8.0\C#livetest.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#Test\C#livetest\obj\Debug\net8.0\C#livetest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#Test\C#livetest\obj\Debug\net8.0\C#livetest.dll
+C:\Users\USER\Desktop\C#Test\C#livetest\obj\Debug\net8.0\refint\C#livetest.dll
+C:\Users\USER\Desktop\C#Test\C#livetest\obj\Debug\net8.0\C#livetest.pdb
+C:\Users\USER\Desktop\C#Test\C#livetest\obj\Debug\net8.0\C#livetest.genruntimeconfig.cache
+C:\Users\USER\Desktop\C#Test\C#livetest\obj\Debug\net8.0\ref\C#livetest.dll
